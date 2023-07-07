@@ -25,16 +25,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cpp\vertex_class\vertex_class_3D.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
     <ClCompile Include="cpp\Color\Lighting_Color.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test_two_glsl.cpp">
+    <ClCompile Include="Debuginstall\glad\src\glad.c">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Debuginstall\glad\src\glad.c">
+    <ClCompile Include="cpp\vertex_class\vertex_class_3D.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>

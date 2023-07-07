@@ -158,7 +158,7 @@
     <ClCompile Include="cpp\Color\Lighting_Color.cpp" />
     <ClCompile Include="cpp\vertex_class\vertex_class_3D.cpp" />
     <ClCompile Include="Debuginstall\glad\src\glad.c" />
-    <ClCompile Include="test_two_glsl.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets" />
